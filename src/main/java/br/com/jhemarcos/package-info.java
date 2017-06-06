@@ -1,12 +1,9 @@
-package br.com.jhemarcos;
 
 /**
- * Documente aqui como o cliente fará uso dessa interface.
+ * Pacote das interfaces {@link Cns} e {@link DadosDemograficos} que são 
+ * os principais mecanismos oferecidos para acesso ao DATASUS.
  * 
- * As interfaces {@link Cns} e {@link DadosDemograficos} são 
- * os principais mecanismos oferecidos para acesso ao DATAUSS.
- * 
- * <p>O cliente deve obter uma instância de {@link Cns} por 
- * meio da fábrica {@link FabricaCns}. 
+ * @since 1.0
  * 
  */
+package br.com.jhemarcos;
