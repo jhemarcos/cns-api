@@ -24,7 +24,7 @@ Adicionar no seu pom.xml:
 <dependency>
     <groupId>br.com.jhemarcos</groupId>
     <artifactId>cns-api</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
 </dependency>
 
 ```
